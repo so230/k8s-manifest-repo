@@ -7,5 +7,5 @@ images:
 resources:
 - ../../base
 patchesStrategicMerge:
-- front-deployment-patch.yaml
-- front-service-patch.yaml
+- member-deployment-patch.yaml
+- member-service-patch.yaml
