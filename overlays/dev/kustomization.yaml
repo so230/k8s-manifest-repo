@@ -3,7 +3,7 @@ kind: Kustomization
 images:
 - name: 261243772911.dkr.ecr.ap-northeast-2.amazonaws.com/sgi-edu-member-service
   newName: 261243772911.dkr.ecr.ap-northeast-2.amazonaws.com/sgi-edu-member-service
-  newTag: 27f5ee92
+  newTag: 2a822a2f
 resources:
 - ../../base
 patchesStrategicMerge:
